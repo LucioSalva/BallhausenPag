@@ -1,0 +1,19 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+#colconte{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img {
+    height: 400px;
+    object-fit: fill;
+}

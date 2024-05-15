@@ -1,0 +1,13 @@
+.fondo {
+    background-color: #f0f0f0;
+  }
+
+td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tamB{
+    height: 60px; 
+    width: 200px;
+}
